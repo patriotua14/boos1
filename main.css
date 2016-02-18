@@ -4,3 +4,11 @@ div
     flex-direction: row;
     flex-wrap: wrap;
 }
+.class1
+{
+    float: left;
+}
+.class2
+{
+    float: left;
+}
